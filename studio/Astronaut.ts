@@ -9,4 +9,3 @@ export class Astronaut implements Payload {
         this.massKg = massKg;
     }
  }
-//testing
